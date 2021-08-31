@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://socider.github.io</id>
-    <title>Stabaoc的随记</title>
-    <updated>2021-08-31T07:40:26.074Z</updated>
+    <title>Socider的随记</title>
+    <updated>2021-08-31T07:45:25.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://socider.github.io"/>
     <link rel="self" href="https://socider.github.io/atom.xml"/>
     <subtitle>见微知著</subtitle>
     <logo>https://socider.github.io/images/avatar.png</logo>
     <icon>https://socider.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Stabaoc的随记</rights>
+    <rights>All rights reserved 2021, Socider的随记</rights>
     <entry>
         <title type="html"><![CDATA[210830 夜骑西湖]]></title>
         <id>https://socider.github.io/post/210830/</id>
